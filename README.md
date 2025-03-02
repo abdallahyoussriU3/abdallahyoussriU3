@@ -24,13 +24,13 @@
 ## 🛠 Tech Stack
 
 ### ⚡ Languages & Frameworks  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
+![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
 ![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
 
 ### 🔧 Tools & Technologies  
@@ -44,6 +44,6 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-ashraf/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-youssri-4a9b1a24a/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdallahyoussriU3)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdullahyoussri3435@gmail.com)  
