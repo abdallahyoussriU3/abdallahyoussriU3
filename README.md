@@ -24,14 +24,14 @@
 ## 🛠 Tech Stack
 
 ### ⚡ Languages & Frameworks  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=dotnet&logoColor=512BD4)
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Tools & Technologies  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
