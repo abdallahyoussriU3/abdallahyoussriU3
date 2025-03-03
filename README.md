@@ -7,14 +7,14 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Backend%20Developer%20|%20ASP.NET%20Core%20Enthusiast;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=500&height=50&color=007ACC&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20|%20ASP.NET%20Core%20Enthusiast;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=500&height=50&color=007ACC&vCenter=true&size=22">
   </a>
 </p> 
 
 ## 🚀 About Me
 
 - 🎓 **Engineering Student** at **Tanta University**  
-- 💻 **Aspiring Backend Developer** specializing in **ASP.NET Core**  
+- 💻 **Backend Developer** specializing in **ASP.NET Core**  
 - 🔧 Currently working on my **graduation project**: a **project management application**  
 - 📚 Passionate about **learning and implementing best practices** in backend development  
 - ☕ A coffee enthusiast—my perfect day starts and ends with a cup of coffee!  
